@@ -1,0 +1,11 @@
+[14/06/2022 18:09:39] Ouverture du port COM2
+[14/06/2022 18:09:43]  Déconnexion de l'utilisateur !
+[14/06/2022 18:09:43]  s'est connecté !
+[14/06/2022 18:09:57] Tentative d'enregistrement d'un nouvel utilisateur : haha
+[14/06/2022 18:10:02] Tentative d'enregistrement d'un nouvel utilisateur : héhé
+[14/06/2022 18:10:12] Une nouvelle alarme a été appliqué à l'ID :5 - CriticalMax = 100 - WarningMax = 100 - WarningMin = 100 - CriticalMin = 0
+[14/06/2022 18:10:18] Une mesure a été supprimer (ID : 5)
+[14/06/2022 18:10:24] Une configuration a été appliquer à l'ID :7 - HighLimit = 100 - LowLimit = 0
+[14/06/2022 18:10:36]  Déconnexion de l'utilisateur !
+[14/06/2022 18:10:36] root s'est connecté !
+[14/06/2022 18:10:42] Un chargement de configuration a été appliqué

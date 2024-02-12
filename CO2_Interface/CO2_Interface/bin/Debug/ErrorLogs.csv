@@ -1,0 +1,11 @@
+MeteoStation_Errors_file
+Ref;Type;Date;Descritpion;
+1;3;15/06/2022 11:02:58;Le fichier est corrompu;
+3;3;15/06/2022 11:03:38;Le fichier est corrompu;
+5;4;15/06/2022 11:03:59;Modifications non effectuées : risque de doublons dans champs index, clé principale ou relation interdisant les doublons. Modifiez les données des champs contenant les doublons, enlevez ou redéfinissez l’index pour permettre les doublons et recommencez. file:DataReader;
+7;1;15/06/2022 11:04:11;L'accès au port 'COM1' est refusé.;
+0;3;15/06/2022 11:17:48;Le fichier est corrompu;
+1;4;15/06/2022 11:17:53;Modifications non effectuées : risque de doublons dans champs index, clé principale ou relation interdisant les doublons. Modifiez les données des champs contenant les doublons, enlevez ou redéfinissez l’index pour permettre les doublons et recommencez. file:DataReader;
+
+0;3;15/06/2022 11:54:44;Le fichier est corrompu;
+
